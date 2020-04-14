@@ -9,7 +9,8 @@
   "dependencies": {
     "@engajados/dorothy-msg-service-serialize": "0.0.1",
     "express": "^4.17.1",
-    "moment": "^2.24.0"
+    "moment": "^2.24.0",
+    "socket.io": "^2.3.0"
   },
   "author": "",
   "license": "ISC"
